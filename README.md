@@ -18,7 +18,7 @@
 - 🌱 Learning: **FastAPI**, **Docker**, **Microservices**, **Golang**
 - 🧠 Interests: **Open-source**, **Clean Code**, **System Architecture**
 - 💬 Ask me about: **Laravel**, **Python**, **MySQL**, **APIs**, **Billing Systems**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **iqbalmaulana6069@gmail.com**
 - ⚡ Fun fact: I once built a billing system that handled **1M+ transactions in a month** 😎
 
 ---
