@@ -1,5 +1,10 @@
-<h1 align="center">👋 Hello there, I'm <span style="color:#f97316">Baleehash</span></h1>
-<h3 align="center">🚀 Fullstack Developer | 💡 Tech Explorer | 🇮🇩 From Indonesia</h3>
+<!-- Profil Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Baleehash!;Fullstack+Developer+%F0%9F%9A%80;Clean+Code+Enthusiast+%F0%9F%92%AA;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<h1 align="center">👋 Hello! I'm <span style="color:#f97316">Baleehash</span></h1>
+<h3 align="center">🚀 Fullstack Developer | 💡 Tech Explorer | 🇮🇩 Indonesia</h3>
 
 <p align="center">
   <em>“I build systems that don't just work — they scale, secure, and simplify people's lives.”</em>
@@ -7,17 +12,30 @@
 
 ---
 
-- 🔭 I’m currently building **high-performance payment systems** and integrating **digital wallets**.
-- 🌱 Deep-diving into **FastAPI**, **Docker**, and crafting **microservice architectures**.
-- 🧠 Passionate about **open-source**, **clean code**, and making complex logic feel effortless.
-- 💬 I love talking about **Laravel**, **Python**, **MySQL optimization**, and backend architecture.
-- 📫 Reach me at: **your.email@example.com** or find me on [LinkedIn](https://linkedin.com/in/yourprofile)
-- ⚡ Fun fact: I once built a billing system that handled over **1M transactions** in less than a month 😎
+### 🧑‍💻 About Me
+
+- 🔭 Currently building: **payment systems & digital wallet integrations**
+- 🌱 Learning: **FastAPI**, **Docker**, **Microservices**, **Golang**
+- 🧠 Interests: **Open-source**, **Clean Code**, **System Architecture**
+- 💬 Ask me about: **Laravel**, **Python**, **MySQL**, **APIs**, **Billing Systems**
+- 📫 Reach me at: **your.email@example.com**
+- ⚡ Fun fact: I once built a billing system that handled **1M+ transactions in a month** 😎
 
 ---
 
-### 🛠️ Tech Stack
-<p>
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:iqbalmaulana6069@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iqbal-maulana-ab2991192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Baleehash" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,8 +49,11 @@
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baleehash&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baleehash&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Baleehash&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Baleehash&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baleehash&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
